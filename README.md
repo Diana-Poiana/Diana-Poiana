@@ -1,5 +1,7 @@
-Hello! My name is Diana Ivanova
+### Hi there 👋, my name is Diana
+#### I started my front-end developer journey in November, 2022.
 
+Skills: JS / REACT / HTML / CSS
 
 
 <!--
